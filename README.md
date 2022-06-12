@@ -28,3 +28,4 @@ python3 ./processData.py
 python3 ./svm.py 
 ```
 ## 数据及源码
+链接: https://pan.baidu.com/s/14OVn5mh3N7YCT1TDuvmMBA 提取码: hum3 
