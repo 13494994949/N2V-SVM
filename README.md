@@ -1,5 +1,5 @@
 # N2V-SVM
-
+基于图表示学习的疾病预测
 
 ## Frame :
 
@@ -11,8 +11,10 @@
 ```bash
 python3 ./main.py 
 ```
-## 2.提取基因特征
-
+## 2.node2vec提取基因特征
+```bash
+node2vec-master-change/main.py
+```
 ## 3.融合生成多元生物网络
 ```bash
 python3 ./all.py 
